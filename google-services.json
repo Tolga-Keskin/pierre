@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "386491485179",
+    "firebase_url": "https://presentation-app-1775e.firebaseio.com",
+    "project_id": "presentation-app-1775e",
+    "storage_bucket": "presentation-app-1775e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386491485179:android:7b776a9c036d36cab9595e",
+        "android_client_info": {
+          "package_name": "com.buzz.presentationapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "386491485179-eradmkk9rmon425vfcmm7gai7l0g1bnv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj-JRIINOJnhzZRW-KBcS9zGSIJTvEBU0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "386491485179-eradmkk9rmon425vfcmm7gai7l0g1bnv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
